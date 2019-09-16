@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <filter id="ic_invert_colors_24px" x="18" y="6" width="163.26" height="193.31" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-icon11">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="icon11" clip-path="url(#clip-icon11)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#ic_invert_colors_24px)">
+      <path id="ic_invert_colors_24px-2" data-name="ic_invert_colors_24px" d="M128.015,53.656,76.63,2.27,25.244,53.656a72.638,72.638,0,1,0,102.771,0Z" transform="translate(23 9.73)" fill="#fff"/>
+    </g>
+    <path id="ic_arrow_upward_24px" d="M4,36.012l5.642,5.642L32.01,19.326v48.7h8v-48.7L62.342,41.694l5.682-5.682L36.012,4Z" transform="translate(136.024 153.233) rotate(180)" fill="#2196f3"/>
+  </g>
+</svg>
