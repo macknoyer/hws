@@ -191,6 +191,7 @@ ul li::marker {
 }
 .page-title {
 	font-size: 48px;
+	line-height: 52px;
     font-weight: 600;
 }
 .page-tagline {
@@ -401,4 +402,11 @@ a.back_home span:hover{
 .fz32 {
 	font-size: 32px;
 	line-height: 1.6;
+}
+
+.find {
+	    width: calc(100% - 90px) !important;
+    display: inline-block;
+    color: #fff;
+    padding: 12px 0;
 }
