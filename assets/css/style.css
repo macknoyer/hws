@@ -424,3 +424,11 @@ a.back_home span:hover{
     color: #fff;
     padding: 12px 0;
 }
+
+.media-img {
+	width: 100px;
+    margin-right: 15px;
+}
+.media-img img{
+	width: 100%;
+}
