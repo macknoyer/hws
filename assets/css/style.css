@@ -432,3 +432,8 @@ a.back_home span:hover{
 .media-img img{
 	width: 100%;
 }
+.find-widget-container {
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 2rem;
+	padding-bottom: 2rem;
+}

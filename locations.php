@@ -41,25 +41,28 @@
 			<div class="container">
 			  <div class="mb-5">
 				<div class="row">
-				  <div class="col-md-12 material-title-section wow animated fadeInLeft" data-wow-delay=".2s">
+				  <div class="col-md-12 material-title-section wow animated fadeInLeft d-flex align-items-start" data-wow-delay=".2s">
 					<div class="section-title">New York</div>
 				  </div>
 				</div>
 				<div class="row">
 				  <div class="col-md-5 contact-widget-section2 wow animated fadeInLeft mb-3" data-wow-delay=".2s">
 					<p>We New Yorkers take pride in our tap water. Many credit the water for the quality of the pizza dough and bagels that New York is famous for. Some have even called it “The Champagne of Drinking Water.” But, is it true? Or is it just another urban legend? And, is your drinking water actually safe?</p>
-					<div class="find-widget">
-					  <a href="#"><i class="material-icons mdi mdi-map-marker"></i>1938 Stillwell Ave, Brooklyn, NY 11223</a>
+					<div class="find-widget-container">
+						<div class="find-widget">
+						  <a href="#"><i class="material-icons mdi mdi-map-marker"></i>1938 Stillwell Ave, Brooklyn, NY 11223</a>
+						</div>
+						<div class="find-widget">
+							<a href="#"><i class="material-icons mdi mdi-phone"></i> 718-407-9357</a>
+						</div>
+						<div class="find-widget">
+							<a href="#"><i class="material-icons mdi mdi-email-open mr-3"></i> hws@gmail.com</a>
+						</div>
+						<div class="find-widget">
+							<a href="#"><i class="material-icons mdi mdi-clock"></i> Mon to Sat: 09:30 AM - 10.30 PM</a>
+						</div>
 					</div>
-					<div class="find-widget">
-						<a href="#"><i class="material-icons mdi mdi-phone"></i> 718-407-9357</a>
-					</div>
-					<div class="find-widget">
-						<a href="#"><i class="material-icons mdi mdi-email-open mr-3"></i> hws@gmail.com</a>
-					</div>
-					<div class="find-widget">
-						<a href="#"><i class="material-icons mdi mdi-clock"></i> Mon to Sat: 09:30 AM - 10.30 PM</a>
-					</div>
+					<a class="btn btn-common">Find out more</a>
 				  </div>
 				  <div class="col-md-7 wow animated fadeInRight" data-wow-delay=".2s">
 					<img style="box-shadow: 0 1px 4px rgba(0,0,0,0.26);" src="assets/images/map.png" alt="map" class="img-fluid">
