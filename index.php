@@ -98,8 +98,8 @@
 								<div class="tab-pane fade show active" id="install" role="tabpanel">
 									<div class="container">
 										<div class="row">
-											<div class="col-md-6"><img class="img-fluid help-image" src="assets/images/banner-water-filtration.jpg" alt="Installation"></div>
-											<div class="col-md-6">
+											<div class="col-md-3"><img class="img-fluid help-image" src="assets/images/banner-water-filtration.jpg" alt="Installation"></div>
+											<div class="col-md-9">
 												<h2 class="subtitle futuries-title">Water Filter Installation</h2>
 												<p>We have installed thousands of water purification systems in the greater New York City area and we can build and install the perfect water filter for your circumstances.</p>
 												<p>We have installed thousands of water purification systems in the greater New York City area and we can build and install the perfect water filter for your circumstances.</p>
@@ -116,9 +116,9 @@
 								<div class="tab-pane fade" id="maint" role="tabpanel" >
 									<div class="container">
 										<div class="row">
-											<div class="col-md-6"><img class="img-fluid help-image" src="assets/images/banner-water-filtration.jpg" alt="Installation"></div>
-											<div class="col-md-6">
-												<h2 class="subtitle futuries-title">Water Filter Installation</h2>
+											<div class="col-md-3"><img class="img-fluid help-image" src="assets/images/banner-water-filtration.jpg" alt="Installation"></div>
+											<div class="col-md-9">
+												<h2 class="subtitle futuries-title">Water Filter Maintenance</h2>
 												<p>We have installed thousands of water purification systems in the greater New York City area and we can build and install the perfect water filter for your circumstances.</p>
 												<p>We have installed thousands of water purification systems in the greater New York City area and we can build and install the perfect water filter for your circumstances.</p>
 												<ul>
@@ -134,9 +134,9 @@
 								<div  class="tab-pane fade" id="repair" role="tabpanel">
 									<div class="container">
 										<div class="row">
-											<div class="col-md-6"><img class="img-fluid help-image" src="assets/images/banner-water-filtration.jpg" alt="Installation"></div>
-											<div class="col-md-6">
-												<h2 class="subtitle futuries-title">Water Filter Installation</h2>
+											<div class="col-md-3"><img class="img-fluid help-image" src="assets/images/banner-water-filtration.jpg" alt="Installation"></div>
+											<div class="col-md-9">
+												<h2 class="subtitle futuries-title">Water Filter Repear</h2>
 												<p>We have installed thousands of water purification systems in the greater New York City area and we can build and install the perfect water filter for your circumstances.</p>
 												<p>We have installed thousands of water purification systems in the greater New York City area and we can build and install the perfect water filter for your circumstances.</p>
 												<ul>
