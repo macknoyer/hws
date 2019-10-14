@@ -31,6 +31,11 @@
 							  <button type="submit" name="subscribe" id="subscribe" class="btn btn-common pull-right">Find</button>
 							  <div class="clearfix"></div>
 							</div>
+							<div class="alert alert-dismissible alert-danger">
+		                        <button type="button" class="close" data-dismiss="alert">×</button>
+		                        <h4>Unfortunately we couldn't find any HWS in your location. :(</h4>
+		                        <p>Here is a list below of locations in other states. Hope you will find the right one.</p>
+		                    </div>
 						</form>
 					</div>
 				</div>
