@@ -167,7 +167,7 @@
 											<!-- Name -->
 											<div class="form-group label-floating">
 												<label class="control-label" for="name1">Name</label>
-												<input class="form-control" id="name1" type="text" name="name1" required data-error="Please enter your name">
+												<input class="form-control" id="name1" type="text" name="name1" required data-error="Please enter your name" placeholder="test">
 												<div class="help-block with-errors"></div>
 											</div>
 											<!-- email -->
